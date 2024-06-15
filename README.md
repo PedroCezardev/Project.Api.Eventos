@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/9ONJnglb)
 # Atividade de Gerenciamento de Eventos
 
 Esta atividade consiste na implementação de um sistema de gerenciamento de eventos utilizando Spring Boot e JPA, com o suporte de Lombok para redução de código. O objetivo é criar uma aplicação que permita a criação e inscrição em eventos, seguindo os requisitos especificados abaixo.
